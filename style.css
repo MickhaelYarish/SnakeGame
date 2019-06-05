@@ -1,0 +1,21 @@
+
+td{
+  background-color: black;
+  width:18px;
+  height:18px;
+}
+tr:first-child td{
+  background: #860e0e;
+}
+tr:last-child td{
+  background: #860e0e;
+}
+td:first-child{
+  background: #860e0e;
+}
+td:last-child{
+  background: #860e0e;
+}
+table{
+    margin: 12vh auto 0px;
+}
